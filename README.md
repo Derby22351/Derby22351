@@ -7,7 +7,7 @@ I'm an aspiring tech enthusiast exploring the world of technology and building m
  I'm currently learning and exploring:
 
 - 💻 Front-End Web Development — HTML, CSS, JavaScript, and responsive web design.
-- 📊 Data Analysis — Excel, SQL, Python, and Tableau.
+- 📊 Data Analysis — Excel, SQL, R, Python, and Tableau.
 - 🔐 Cybersecurity — learning about online security, networking, and digital safety.
 
 What I'm Working On
